@@ -15,10 +15,10 @@ Discover my journey through various professional roles and projects.
 
 ### 🌱 Skills
 Explore the diverse skill set I bring to the table, including but not limited to:
-- Web Development
+- Web Development - python, Django, React
 - Project Management
 - Database Management
-- 
+  
 ### 📚 Education
 Learn about my academic background and the knowledge gained throughout my educational journey.
 
