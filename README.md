@@ -31,6 +31,5 @@ Feel free to reach out and discuss potential collaborations or opportunities.
 ## 📞 Contact Information
 Don't hesitate to get in touch:
 - Email: utkarshhg911@gmail.com
-- Phone: +91 7987674357
 
 Thank you for stopping by! 🌟 Let's create something amazing together.
